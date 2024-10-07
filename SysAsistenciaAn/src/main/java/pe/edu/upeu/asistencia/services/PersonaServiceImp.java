@@ -23,6 +23,7 @@ import pe.edu.upeu.asistencia.repositories.PersonaRepository;
 @Service
 @Transactional
 public class PersonaServiceImp implements PersonaService{
+    
 
     private final PersonaRepository entidadRepo;
     
